@@ -42,5 +42,6 @@ int main(){
     display(a,n);
     cout<<"hi h'll";//cc
     cout<<"This is a bubble sort";
+    cout<<"first program";
     return 0;
 }
