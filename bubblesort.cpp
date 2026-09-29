@@ -40,7 +40,7 @@ int main(){
     bubblesort(a,n);
     cout<<"after sorting : ";
     display(a,n);
-    cout<<"hi hell";
+    cout<<"hi h'll";
     cout<<"This is a bubble sort";
     return 0;
 }
